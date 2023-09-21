@@ -12,8 +12,9 @@
 	
 
 
-## [ERD](https://dbdiagram.io/d/Rice-Project-63d91744296d97641d7d5fb2)
+## ERD
 
+[ERD LINK](https://dbdiagram.io/d/Rice-Project-63d91744296d97641d7d5fb2)
 <img width="1043" alt="image" src="https://github.com/kangil2/studylightning/assets/87291926/d3acbbe4-12c2-4fe7-82c1-5a3544b30d47">
 
 
